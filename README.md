@@ -1,6 +1,9 @@
 # portfolio
 A list of projects I've developed
 
+### Prossigo
+https://prossigo.com
+
 ### Rio Torto Filmes
 https://riotorto.com.br
 
@@ -8,25 +11,25 @@ https://riotorto.com.br
 https://www.linhascomunicacao.com.br
 
 ### Codevance
-https://codevance.com.br/
+https://codevance.com.br
 
 ### Crescimento Social
-http://influid.com.br/crescimento-social/
+http://influid.com.br/crescimento-social
 
 ### Influid
-http://influid.com.br/
+http://influid.com.br
 
 ### Escadas MV
-https://escadasmv.com.br/
+https://escadasmv.com.br
 
 ### Brazilian Cooking Class
-https://www.braziliancookingclass.com/
+https://www.braziliancookingclass.com
 
 ### Anymarket
-https://anymarket.com.br/
+https://anymarket.com.br
 
-### DB1
-https://db1.com.br/
+### DB1 Group
+https://db1group.com.br
 
 ### eSocial Brasil
-https://esocialbrasil.com.br/
+https://esocialbrasil.com.br
