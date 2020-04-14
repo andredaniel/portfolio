@@ -29,7 +29,7 @@ https://www.braziliancookingclass.com
 https://anymarket.com.br
 
 ### DB1 Group
-https://db1group.com.br
+https://db1group.com
 
 ### eSocial Brasil
 https://esocialbrasil.com.br
