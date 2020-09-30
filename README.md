@@ -1,9 +1,6 @@
 # portfolio
 A list of projects I've developed
 
-### Prossigo
-https://prossigo.com
-
 ### Rio Torto Filmes
 https://riotorto.com.br
 
